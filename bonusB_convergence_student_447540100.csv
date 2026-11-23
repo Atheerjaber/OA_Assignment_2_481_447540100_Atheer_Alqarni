@@ -1,0 +1,3 @@
+method,mean_gap_percent,mean_runtime_s,mean_generation_of_best
+Baseline,12.434893104140052,26.218776799998523,6.8125
+Two-point crossover,12.434893104140052,26.735213931247927,4.6875

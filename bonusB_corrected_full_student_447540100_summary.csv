@@ -1,0 +1,3 @@
+method,mean_gap_percent,mean_runtime_s,improvement_percentage_points
+Baseline,10.964484440834564,19.701675736806564,0.0
+Two-point crossover,10.950637273573701,19.792961425000005,0.013847167260863102

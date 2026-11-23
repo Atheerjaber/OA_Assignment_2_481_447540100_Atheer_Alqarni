@@ -1,0 +1,3 @@
+method,mean_gap_percent,mean_runtime_s
+Baseline,10.630914299845433,1.6483269979173403
+Frequency-based memory,10.43735147975681,1.818156852083626
